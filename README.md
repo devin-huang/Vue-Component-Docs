@@ -1,6 +1,8 @@
 # vue-docs-template 
 一个基于 Element-ui 风格的文档模板。 渲染 `Markdown` 中写的 vue 的代码。
 
+> .gitignore `# Editor directories and files` 去掉 `*.md` 否则上传 Github 缺文件
+
 * Markdown 文件
 ```
 :::demo
