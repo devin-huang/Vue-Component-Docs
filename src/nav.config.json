@@ -1,9 +1,7 @@
 {
-  "zh-CN": [
-    {
+  "zh-CN": [{
       "name": "开发指南",
-      "children": [
-        {
+      "children": [{
           "path": "/installation",
           "name": "安装"
         },
@@ -15,29 +13,34 @@
     },
     {
       "name": "组件",
-      "groups": [
-        {
-          "groupName": "Basic",
-          "list": [
-            {
-              "path": "/page",
-              "title": "Page"
-            },
-            {
-              "path": "/input",
-              "title": "Input"
-            }, 
-            {
-              "path": "/inputCheck",
-              "title": "Input Check"
-            }, 
-            {
-              "path": "/filter-2",
-              "title": "Filter 下拉选项"
-            }
-          ]
-        }
-      ]
+      "groups": [{
+        "groupName": "Basic",
+        "list": [{
+            "path": "/page",
+            "title": "Page"
+          },
+          {
+            "path": "/input",
+            "title": "Input"
+          },
+          {
+            "path": "/inputCheck",
+            "title": "Input Check"
+          },
+          {
+            "path": "/filter-2",
+            "title": "Filter 下拉选项"
+          },
+          {
+            "path": "/table",
+            "title": "Table 表格"
+          },
+          {
+            "path": "/dialog",
+            "title": "Dialog 弹出框"
+          }
+        ]
+      }]
     }
   ]
 }

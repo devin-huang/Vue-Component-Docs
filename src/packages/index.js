@@ -5,6 +5,7 @@ import Input from './input'
 import Page from './page'
 import SstFilter from './filter-2'
 import InputCheck from './InputCheck'
+import FunTable from './fun-table'
 
 const components = [
   DateRange,
@@ -13,7 +14,8 @@ const components = [
   Input,
   Page,
   SstFilter,
-  InputCheck
+  InputCheck,
+  FunTable
 ]
 
 const install = Vue => {
