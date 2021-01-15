@@ -14,6 +14,12 @@
 :::
 ```
 
+- 在线实例
+
+[codesandbox](https://codesandbox.io/dashboard/home?workspace=a067bcc5-ef13-4e25-8b8c-62761d5f4bb3)
+
+[codepen](https://codepen.io/your-work/)
+
 - 渲染结果
 
 <!-- ![](https://user-gold-cdn.xitu.io/2019/7/4/16bbb33ed92c4f32?w=904&h=256&f=gif&s=116678) -->
