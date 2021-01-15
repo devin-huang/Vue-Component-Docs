@@ -38,6 +38,10 @@
           {
             "path": "/dialog",
             "title": "Dialog 弹出框"
+          },
+          {
+            "path": "/keep-alive",
+            "title": "keepAlive 缓存组件"
           }
         ]
       }]

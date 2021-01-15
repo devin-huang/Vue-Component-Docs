@@ -1,6 +1,6 @@
 # Table 表格
 
-函数式的对 el-table 二次封装, 不需要将columns属性写在el-table中，而是抽离出来写成一个columns.js进行管理
+函数式的对 el-table 二次封装, 不需要将 columns 属性写在 el-table 中，而是抽离出来写成一个 columns.js 进行管理
 
 ### 基础用法
 
@@ -10,8 +10,7 @@
 
 **在线查看**
 
-[ --------------  查看在线 Demo  --------------](https://codesandbox.io/s/fun-table-uv9m6)
-
+[ -------------- codesandbox：查看在线 Demo --------------](https://codesandbox.io/s/fun-table-uv9m6)
 
 ```html
 <fun-table
@@ -60,6 +59,5 @@
 | hidden  | 是否隐藏                 | Boolean  | —      | false  |
 
 :::tip
-fun-table是基于el-table进行二次封装，所以Columns可定义el-table列已有属性，也可另自定义属性进行特别处理
+fun-table 是基于 el-table 进行二次封装，所以 Columns 可定义 el-table 列已有属性，也可另自定义属性进行特别处理
 :::
-
