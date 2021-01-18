@@ -12,6 +12,10 @@
 
 [ -------------- codesandbox：查看在线 Demo -------------- ](https://codesandbox.io/s/fun-dialog-uxlji)
 
+**在线下载**
+
+链接：[https://share.weiyun.com/Cl8QbHLP](https://share.weiyun.com/Cl8QbHLP) 密码：xk7h4i
+
 **默认加载弹出框**
 
 ```js

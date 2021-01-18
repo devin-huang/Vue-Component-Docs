@@ -12,6 +12,10 @@
 
 [ -------------- codesandbox：查看在线 Demo --------------](https://codesandbox.io/s/fun-table-uv9m6)
 
+**在线下载**
+
+链接：[https://share.weiyun.com/rM9m2Cq2](https://share.weiyun.com/Cl8QbHLP) 密码：stwkvj
+
 ```html
 <fun-table
   :columns="
