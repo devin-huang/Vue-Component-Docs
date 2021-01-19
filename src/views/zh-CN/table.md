@@ -63,5 +63,9 @@
 | hidden  | 是否隐藏                 | Boolean  | —      | false  |
 
 :::tip
+columns.js 中 `this` 指向是当前 `el-table` 对象，想获取对应当前组件 this 则是 `this.$parent`
+:::
+
+:::tip
 fun-table 是基于 el-table 进行二次封装，所以 Columns 可定义 el-table 列已有属性，也可另自定义属性进行特别处理
 :::
